@@ -1,0 +1,7 @@
+torch>=2.2.0
+ultralytics
+pydicom
+opencv-python
+matplotlib
+pandas
+numpy
