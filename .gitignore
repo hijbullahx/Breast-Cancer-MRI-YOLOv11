@@ -1,0 +1,9 @@
+# Ignore Dataset and Colab Files
+data/
+*.dcm
+*.png
+__pycache__/
+*.pt
+*.pth
+# Ignore Colab folder if it exists
+sample_data/
