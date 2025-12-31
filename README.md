@@ -39,6 +39,13 @@ We use the **Duke Breast Cancer MRI Dataset** hosted on TCIA.
 ## ⚙️ Installation & Setup
 This project is designed to run on **Google Colab** (for training) and **VS Code** (for development).
 
+## 🚀 Training
+To train the model on the MRI dataset, run the following command:
+
+```bash
+python src/train.py --epochs 50 --batch 16
+
+
 ```bash
 # Clone the repository
 git clone [https://github.com/hijbullahx/Breast-Cancer-MRI-YOLOv11.git](https://github.com/hijbullahx/Breast-Cancer-MRI-YOLOv11.git)
