@@ -4,4 +4,4 @@ pydicom
 opencv-python
 matplotlib
 pandas
-numpy
+numpyultralytics
