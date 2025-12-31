@@ -1,0 +1,10 @@
+# YOLOv11 Dataset Configuration
+path: ../data/yolo_dataset
+train: images/train
+val: images/val
+
+# Classes
+nc: 2  # number of classes
+names:
+  0: benign
+  1: malignant
