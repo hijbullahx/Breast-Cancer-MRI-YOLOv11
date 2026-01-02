@@ -7,3 +7,10 @@ __pycache__/
 *.pth
 # Ignore Colab folder if it exists
 sample_data/
+# Ignore YOLO model weights (too large for GitHub free tier)
+*.pt
+*.onnx
+
+# Ignore training artifacts
+runs/*.pt
+runs/
