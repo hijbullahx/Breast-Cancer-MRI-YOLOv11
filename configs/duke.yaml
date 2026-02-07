@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/duke_yolo_final
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: Tumor
